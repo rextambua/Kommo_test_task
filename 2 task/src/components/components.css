@@ -1,0 +1,213 @@
+.component {
+    height: 387px;
+    position: relative;
+    width: 1393px;
+}
+
+.component .overlap-group {
+    background-image: url("/src/assets/red_light.png");
+    background-size: 100% 100%;
+    height: 954px;
+    left: 102px;
+    position: absolute;
+    top: -209px;
+    width: 601px;
+}
+
+.component .element {
+    color: #e4e5ea;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 48px;
+    font-weight: 400;
+    left: 147px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 208px;
+}
+
+.component p {
+    font-size: 12px;
+    color: #E4E5EA
+}
+.component .span {
+    font-size: 12px;
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.component .WELBEX {
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent;
+    background: linear-gradient(180deg, rgb(252, 176, 69) 24.21%, rgb(255, 62.68, 120.37) 100%);
+    background-clip: inherit;
+    color: transparent;
+    font-family: "Inter-Black", Helvetica;
+    font-size: 48px;
+    font-weight: 900;
+    left: 147px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-fill-color: transparent;
+    top: 324px;
+}
+
+.component .text-wrapper {
+    color: #e4e5ea;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 148px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 412px;
+    width: 275px;
+}
+
+.component .red-ball {
+    height: 62px;
+    left: 939px;
+    position: absolute;
+    top: 327px;
+    width: 62px;
+}
+
+.component .div {
+    color: #e4e5ea;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 1138px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 126px;
+}
+
+.component .element-2 {
+    color: #e4e5ea;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 1126px;
+    letter-spacing: 0.9px;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 98px;
+}
+
+.component .dashboard {
+    color: #e4e5ea;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 1269px;
+    letter-spacing: 0.9px;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 98px;
+}
+
+.component .element-3 {
+    color: #e4e5ea;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 1271px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 126px;
+}
+
+.component .element-4 {
+    color: #e4e5ea;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 1308px;
+    letter-spacing: 0.9px;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 196px;
+}
+
+.component .CRM {
+
+    color: #e4e5ea;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 1276px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 224px;
+}
+
+.component .skype {
+    color: #e4e5ea;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    left: 1094px;
+    letter-spacing: 0.9px;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 196px;
+}
+
+.component .CRM-2 {
+    left: 1278px;
+    color: #e4e5ea;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 1063px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 224px;
+    width: 164px;
+}
+
+.component .img {
+    height: 42px;
+    left: 1117px;
+    position: absolute;
+    top: 16px;
+    width: 274px;
+}
+
+.component .btn {
+    background-color: #4077f3;
+    height: 61px;
+    left: 1130px;
+    position: absolute;
+    top: 326px;
+    width: 262px;
+}
+
+.component .element-5 {
+    color: #e4e5ea;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 20px;
+    white-space: nowrap;
+}

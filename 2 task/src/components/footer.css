@@ -1,0 +1,277 @@
+.footer {
+    height: 315px;
+    position: relative;
+    width: 1141px;
+}
+
+.footer .element {
+    color: #e4e5ea;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    left: 872px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 170px;
+    white-space: nowrap;
+}
+
+.footer .text-wrapper {
+    color: #e4e5ea;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    left: 1002px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 91px;
+    white-space: nowrap;
+}
+
+.footer .div {
+    color: #656566;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0.7px;
+    line-height: normal;
+    position: absolute;
+    top: 54px;
+}
+
+.footer .element-2 {
+    color: #656566;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    left: 293px;
+    letter-spacing: 0.7px;
+    line-height: normal;
+    position: absolute;
+    top: 54px;
+}
+
+.footer .element-3 {
+    color: #656566;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    left: 1055px;
+    letter-spacing: 0.7px;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 54px;
+}
+
+.footer .whatsapp {
+    height: 20px;
+    left: 1121px;
+    position: absolute;
+    top: 131px;
+    width: 20px;
+}
+
+.footer .telegram {
+    height: 20px;
+    left: 1061px;
+    position: absolute;
+    top: 132px;
+    width: 20px;
+}
+
+.footer .viber {
+    height: 19px;
+    left: 1091px;
+    position: absolute;
+    top: 132px;
+    width: 20px;
+}
+
+.footer .element-4 {
+    color: #e4e5ea;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 91px;
+    white-space: nowrap;
+}
+
+.footer .element-5 {
+    color: #e4e5ea;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 293px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 91px;
+    white-space: nowrap;
+}
+
+.footer .youtube {
+    color: #e4e5ea;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 489px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 178px;
+    white-space: nowrap;
+}
+
+.footer .element-6 {
+    color: #e4e5ea;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 293px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 120px;
+    white-space: nowrap;
+}
+
+.footer .element-7 {
+    color: #e4e5ea;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 489px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 207px;
+    white-space: nowrap;
+}
+
+.footer .element-8 {
+    color: #e4e5ea;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 293px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 149px;
+    white-space: nowrap;
+}
+
+.footer .element-9 {
+    color: #e4e5ea;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 293px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 178px;
+    white-space: nowrap;
+}
+
+.footer .element-10 {
+    color: #e4e5ea;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 293px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 207px;
+    white-space: nowrap;
+}
+
+.footer .element-11 {
+    color: #e4e5ea;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 489px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 91px;
+    white-space: nowrap;
+}
+
+.footer .element-12 {
+    color: #e4e5ea;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 489px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 120px;
+    white-space: nowrap;
+}
+
+.footer .element-13 {
+    color: #e4e5ea;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 489px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 149px;
+    white-space: nowrap;
+}
+
+.footer .element-14 {
+    color: #e4e5ea;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 120px;
+    white-space: nowrap;
+}
+
+.footer .WELBEX {
+    color: #e4e5ea;
+    font-family:  Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 927px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 259px;
+}
+
+.footer .element-15 {
+    color: #e4e5ea;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 966px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    text-decoration: underline;
+    top: 279px;
+}

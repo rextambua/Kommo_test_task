@@ -1,0 +1,155 @@
+.box {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.box .header-wrapper {
+    border: 0px none;
+    height: 73px;
+    position: relative;
+    width: 1140px;
+}
+
+.box .header {
+    background-color: transparent;
+    height: 73px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 1140px;
+}
+
+.box .logo-welbex {
+    height: 24px;
+    left: 0;
+    position: absolute;
+    top: 11px;
+    width: 140px;
+}
+
+.box .text-wrapper {
+    color: #e4e5ea;
+    font-family: "Montserrat-Light", Helvetica;
+    font-size: 10px;
+    font-weight: 300;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 44px;
+    width: 165px;
+}
+
+.box .div {
+    color: #e4e5ea;
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 832px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 14px;
+    white-space: nowrap;
+}
+
+.box .whatsapp {
+    height: 20px;
+    left: 1122px;
+    position: absolute;
+    top: 13px;
+    width: 20px;
+}
+
+.box .telegram {
+    height: 20px;
+    left: 1022px;
+    position: absolute;
+    top: 14px;
+    width: 20px;
+}
+
+.box .viber {
+    height: 19px;
+    left: 1072px;
+    position: absolute;
+    top: 14px;
+    width: 20px;
+}
+
+.box .navbar {
+    height: 19px;
+    left: 192px;
+    position: absolute;
+    top: 15px;
+    width: 503px;
+}
+
+.box .text-wrapper-2 {
+    color: #e4e5ea;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 84px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+}
+
+.box .text-wrapper-3 {
+    color: #e4e5ea;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 188px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+}
+
+.box .text-wrapper-4 {
+    color: #e4e5ea;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 313px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+}
+
+.box .text-wrapper-5 {
+    color: #e4e5ea;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 394px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+}
+
+.box .text-wrapper-6 {
+    color: #e4e5ea;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+}
